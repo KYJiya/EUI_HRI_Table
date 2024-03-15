@@ -1,4 +1,0 @@
-.venv/
-__pycashe__/
-*.db
-*.pyc
